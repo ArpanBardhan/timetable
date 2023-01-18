@@ -106,6 +106,6 @@ Execute the program
 
 # OUPUT
 
-![OUTPUT](./web.png)
+![OUTPUT](myproj/static/images/timetable.png)
 
-![OUTPUT](./validi.png)
+![OUTPUT](myproj/static/images/validi.png)
